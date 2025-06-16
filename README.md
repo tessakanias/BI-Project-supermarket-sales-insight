@@ -2,7 +2,9 @@
 Repository yang mengandung dashboard Power BI yang dapat ditujukan untuk menganalisis penjualan sumpermarket. Dashboard memviasualisasikan tren penjualan supermarket berdasarkan dari data penjualan.
 
 ## Struktur Folder
-- 
+- /Supermarket_Sales
+  -supermarket_sales.pbix: Power BI Dashboard file.
+  -supermarket_sales.xlsx: File data awal.
 
 ## Insight yang Ditampilkan
 - Total Penjualan dan Pendapatan Kotor
