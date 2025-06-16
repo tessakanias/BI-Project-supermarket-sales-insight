@@ -1,10 +1,10 @@
 # BI-Project-supermarket-sales-insight
 Repository yang mengandung dashboard Power BI yang dapat ditujukan untuk menganalisis penjualan sumpermarket. Dashboard memviasualisasikan tren penjualan supermarket berdasarkan dari data penjualan.
 
-## Struktur Folder
+## Folder Structure
 - /Supermarket_Sales
-  -supermarket_sales.pbix: Power BI Dashboard file.
-  -supermarket_sales.xlsx: File data awal.
+  - `supermarket_sales.pbix`: Power BI dashboard file.  
+  - `supermarket_sales.xlsx`: Excel file containing sales data.
 
 ## Insight yang Ditampilkan
 - Total Penjualan dan Pendapatan Kotor
@@ -16,16 +16,16 @@ Repository yang mengandung dashboard Power BI yang dapat ditujukan untuk mengana
 - Jumlah pendapatan kotor berdasarkan product line
 - Total Penjualan berdasarkan product line, jenis kelamin, dan tipe pelanggan
 
-### Tools dan Teknologi
+## Tools dan Teknologi
 - Excel - sumber data
 - Power BI - Visualisasi Interaktif
 
-#### Author
-- Nama: Tessa Kania Sagala
-- Github: tessakanias
-- Email: tessakanias@gmail.com
+## Author
+- **Nama:** Tessa Kania Sagala  
+- **GitHub:** [tessakanias](https://github.com/tessakanias)  
+- **Email:** [tessakanias@gmail.com](mailto:tessakanias@gmail.com)
 
-##### License
+## License
 Project ini memiliki lisensi MIT License.
 
 
